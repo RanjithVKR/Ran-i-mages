@@ -1,0 +1,79 @@
+body{
+        
+        /*background-image: url("https://images.pexels.com/photos/755298/pexels-photo-755298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");*/
+       /* background: -webkit-linear-gradient(90deg, #e6e322 70%, #ff4800 50%); */
+       background: -webkit-linear-gradient(90deg, #ffc3a0 70%, #ffafbd 50%);
+       /* main up */
+         /* background: linear-gradient(40deg, #0B0C10 60%, #66FCF1 60%); 
+        background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%); */
+        
+        
+}
+
+
+.nopadding{
+    padding: 0px;
+    margin:0px;
+}
+
+.row  button{
+    border: 1px solid #C3073F;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px 10px;
+    /* color: #af35e7; */
+    color: #C3073F;
+    font-size: 20px;
+    font-family: "allerta stencil",sans-serif;
+    /* margin: 5px 30%; */
+    width: 100%;
+    margin-top: 5px;
+    outline: 0px;
+}
+
+.row button:hover{
+    /* background-color: #af35e7; */
+    background-color: #C3073F;
+    color: #e6e322;
+    text-decoration:none;
+}
+
+.first
+{
+/* background-color:#e74c3c; */
+width:99.99%;
+overflow: hidden;
+}
+.first img{
+  /*  position: absolute;
+margin-top:3px;
+margin-left:60px;*/
+
+}
+.first a
+{
+margin-left:0 ;
+color:#C3073F;
+font-family: Aclonica;
+font-size: 20px;
+}
+.second
+{
+    
+   width: 98.9%;
+    height: 250px;
+}
+.three
+{
+    margin-top: 10px;
+} 
+.three button{
+    
+}
+.four
+{
+    margin-top: 10px;
+}
+
+
+
